@@ -19,7 +19,6 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=natashavalle&show_icons=true&theme=tokyonight"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natashavalle&layout=compact&theme=tokyonight"/>
 </div>
-
 ---
 
 ### 🛠️ Tools & Technologies
